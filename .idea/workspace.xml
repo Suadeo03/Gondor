@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87b55ca-897c-4bc5-87b8-5e678215eeb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Gondor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_normalizer.py" afterDir="false" />
-    </list>
+    <list default="true" id="e87b55ca-897c-4bc5-87b8-5e678215eeb2" name="Changes" comment="First push of project items" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +57,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729302387519</updated>
-      <workItem from="1729302389109" duration="2132000" />
+      <workItem from="1729302389109" duration="2939000" />
     </task>
+    <task id="LOCAL-00001" summary="First push of project items">
+      <option name="closed" value="true" />
+      <created>1729306523295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729306523295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First push of project items" />
+    <option name="LAST_COMMIT_MESSAGE" value="First push of project items" />
   </component>
 </project>
